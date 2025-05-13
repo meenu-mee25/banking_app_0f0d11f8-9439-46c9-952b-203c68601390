@@ -1,0 +1,11 @@
+flask-compose
+msal
+Flask-Compress
+uuid
+datetime
+pytz
+flask
+Flask-Cors
+psycopg2
+flask_mail
+itsdangerous
